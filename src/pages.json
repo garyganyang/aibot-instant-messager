@@ -1,0 +1,24 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "私有场景AI大模型",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/chat",
+			"style": {
+				"navigationBarTitleText": "污水处理建模AI助手v0.0.2",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "智能问答",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

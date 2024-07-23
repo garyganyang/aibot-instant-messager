@@ -1,0 +1,9 @@
+{
+	"abis": [	
+		"armeabi-v7a"
+	],
+	"dependencies":[
+		"com.google.code.gson:gson:2.8.5",
+		"com.sun.jna:jna:3.0.9"	
+	]
+}

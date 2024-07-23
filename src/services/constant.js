@@ -1,0 +1,25 @@
+const PREFIX = 'uni_'
+const ACCESS_TOKEN = PREFIX + 'ACCESS_TOKEN'
+const USER_INFO = PREFIX + 'USER_INFO'
+const USER_DEPART = PREFIX + 'USER_DEPART'
+const REMEMBER_ME = PREFIX + 'REMEMBER_ME'
+const PERMISSIONS = PREFIX + 'PERMISSIONS'
+
+const HOST_PREFIX = ''
+
+// let API_PREFIX = 'http://47.92.242.21'
+let API_PREFIX = ''
+// #ifdef APP-PLUS
+API_PREFIX = HOST_PREFIX
+// #endif
+
+const API_HOST = API_PREFIX + '/llm-api'
+
+export {
+  ACCESS_TOKEN,
+  USER_INFO,
+  USER_DEPART,
+  REMEMBER_ME,
+  PERMISSIONS,
+  API_HOST
+}
