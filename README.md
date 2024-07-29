@@ -12,6 +12,12 @@
   <img src="./assets/online-demo-qrcode.png" alt="手机扫描体验更佳" title="手机扫描体验更佳" style="width: 200px; height: auto;">
 </div>
 
+## Preview(预览)
+<div style="width: 25%; margin: 0 auto;">
+  <img src="./assets/demo1.jpg" alt="手机扫描体验更佳" title="手机扫描体验更佳" style="height: 250px; height: auto;">
+  <img src="./assets/demo2.jpg" alt="手机扫描体验更佳" title="手机扫描体验更佳" style="height: 250px; height: auto;">
+</div>
+
 ## Tech Support(技术支持)
 <div style="width: 25%; margin: 0 auto;">
   <img src="./assets/findme.jpg" alt="手机扫描体验更佳" title="手机扫描体验更佳" style="width: 150px; height: auto;">
